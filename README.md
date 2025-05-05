@@ -1,10 +1,7 @@
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
-```
-Developed by: RAMPRASATH
-RegisterNumber: 212223220086
-```
+
 
 **AIM:**
 
